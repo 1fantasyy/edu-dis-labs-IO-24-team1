@@ -1,45 +1,41 @@
 # Тестування працездатності системи
 
-## GET
-
-### Отримати всі питання, які є в базі даних
-
-<img src="https://i.postimg.cc/FFcfwBPb/Test1.jpg">
-
-### Отримати одне питання за ID
-
-<img src="https://i.postimg.cc/wTptzQPC/Test2.jpg">
-
 ## POST
 
-### Створення нового питання
+### POST
 
-<img src="https://i.postimg.cc/zGDVbXqp/Test3.jpg">
+<img src="https://i.postimg.cc/6qR4gwsz/post.png">
 
-### Перевірка
+### Check
 
-<img src="https://i.postimg.cc/SNfnxzbJ/Test4.jpg">
+<img src="https://i.postimg.cc/RCntN13f/post-check.png">
+
+## GET
+
+### GET-ALL
+
+<img src="https://i.postimg.cc/j5D76PZp/get-all.png">
+
+### GET-ID
+
+<img src="https://i.postimg.cc/76jTKhRf/get-id.png">
 
 ## PUT
 
-### Оновлення питання
+### PUT
 
-<img src="https://i.postimg.cc/DwCmqkZh/Test5.jpg">
+<img src="https://i.postimg.cc/TYMDmyms/put.png">
 
-### Перевірка
+### Check
 
-<img src="https://i.postimg.cc/k5BGs16b/Test6.jpg">
+<img src="https://i.postimg.cc/FsyJx9VH/put-check.png">
 
 ## DELETE
 
-### Видалення питання
+### DELETE
 
-<img src="https://i.postimg.cc/RFtF5WTC/Test7.jpg">
+<img src="https://i.postimg.cc/vmH9Bp9H/delete.png">
 
-### Перевірка
+### Check
 
-<img src="https://i.postimg.cc/W4C3HGgf/Test8.jpg">
-
-## MySQL
-
-<img src="https://i.postimg.cc/SRpKymZ6/Test9.jpg">
+<img src="https://i.postimg.cc/pdGjnqYQ/delete-check.png">
